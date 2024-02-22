@@ -1,6 +1,4 @@
 ---
-title: Welcome to my blog
-
-This is a test
+title: Welcome to my blog - nice
 ---
 
